@@ -1,0 +1,8 @@
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Models\bin\Debug\netcoreapp3.1\BlogCore.Models.deps.json
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Models\bin\Debug\netcoreapp3.1\BlogCore.Models.dll
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Models\bin\Debug\netcoreapp3.1\BlogCore.Models.pdb
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.csprojAssemblyReference.cache
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.AssemblyInfo.cs
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.dll
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.pdb

@@ -1,0 +1,38 @@
+﻿@model CrudEntityFramekork.Models.Usuario
+@{
+    ViewData["Title"] = "Detalle usuario";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center">Crud Usuarios</h1>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card border">
+            <div class="card-header">
+                <h3><b>Detalle Usuario</b></h3>
+            </div>
+            <div class="card-body">
+                <ul class="list-group">
+                    <li class="list-group-item">
+                        <b>Nombre:</b> @Html.DisplayFor(m => m.Nombre)
+                    </li>
+                    <li class="list-group-item">
+                        <b>Apellido:</b> @Html.DisplayFor(m => m.Apellido)
+                    </li>
+                    <li class="list-group-item">
+                        <b>Telefono:</b> @Html.DisplayFor(m => m.Telefono)
+                    </li>
+                    <li class="list-group-item">
+                        <b>Email:</b> @Html.DisplayFor(m => m.Email)
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver</a>
+</div>
+

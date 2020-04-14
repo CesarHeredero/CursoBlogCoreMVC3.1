@@ -1,0 +1,13 @@
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.deps.json
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.runtimeconfig.json
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.runtimeconfig.dev.json
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.dll
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.pdb
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.Models.dll
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.Models.pdb
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.AssemblyInfo.cs
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.csproj.CopyComplete
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.dll
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.pdb

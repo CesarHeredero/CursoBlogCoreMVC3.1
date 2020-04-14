@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-6">
+            <h2 class="text-primary">Lista de categorias</h2>
+        </div>
+        <div class="col-6 text-right">
+            <a asp-action="Create" class="btn btn-primary"><i class="fas fa-plus"></i> Nueva categoria</a>
+        </div>
+    </div>
+
+    <table id="tblCategorias" class="table table-striped" width="100%">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Orden</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>  </td>
+            </tr>
+        </tbody>
+
+    </table>
+</div>
+
+@section scripts{
+    <script src="~/js/categorias.js"></script>
+}
+
+
+

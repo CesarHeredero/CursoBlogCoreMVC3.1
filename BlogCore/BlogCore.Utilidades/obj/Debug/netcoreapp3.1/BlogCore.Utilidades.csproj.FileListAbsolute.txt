@@ -1,0 +1,8 @@
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.deps.json
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.csprojAssemblyReference.cache
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\Cesar\Documents\GitHub\MasterAspNetCore3.1\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
