@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore\\BlogCore.csproj": {}
+    "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore\\BlogCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {
+    "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
         "projectName": "BlogCore.AccesoDatos",
-        "projectPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+        "projectPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.AccesoDatos\\obj\\",
+        "outputPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
-                "projectPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj"
+              "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
+                "projectPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
+    "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
         "projectName": "BlogCore.Models",
-        "projectPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
+        "projectPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
         "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.Models\\obj\\",
+        "outputPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore\\BlogCore.csproj": {
+    "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore\\BlogCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore\\BlogCore.csproj",
+        "projectUniqueName": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore\\BlogCore.csproj",
         "projectName": "BlogCore",
-        "projectPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore\\BlogCore.csproj",
+        "projectPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore\\BlogCore.csproj",
         "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore\\obj\\",
+        "outputPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -185,11 +185,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {
-                "projectPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj"
+              "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj"
               },
-              "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
-                "projectPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj"
+              "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
+                "projectPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj"
               }
             }
           }
