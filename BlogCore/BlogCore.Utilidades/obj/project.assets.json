@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+      "projectUniqueName": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
       "projectName": "BlogCore.Utilidades",
-      "projectPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+      "projectPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
       "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\BlogCore\\BlogCore.Utilidades\\obj\\",
+      "outputPath": "C:\\Users\\Cesar\\Documents\\GitHub\\MasterAspNetCore3.1\\CursoBlogCoreMVC3.1\\BlogCore\\BlogCore.Utilidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
